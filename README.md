@@ -2,6 +2,11 @@
 
 A comprehensive health information management system for healthcare providers to manage clients and health programs.
 
+## Demo Links
+
+- Live Demo [Deployed Web App](https://health-management-system-main.vercel.app/)
+- Slides Presentation [https://docs.google.com/presentation/d/17kXqaBMSHEqhpij4HDaPfYQwHzJAU4LrjR7Wa6DOKao/edit?usp=drivesdk](https://docs.google.com/presentation/d/17kXqaBMSHEqhpij4HDaPfYQwHzJAU4LrjR7Wa6DOKao/edit?usp=drivesdk)
+
 ## Features
 
 - User authentication with role-based access control (admin/doctor)
